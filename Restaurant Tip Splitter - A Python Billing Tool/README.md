@@ -17,8 +17,8 @@ Welcome to the *Restaurant Tip Splitter*, a Python-based tool I built to simplif
 2. Follow the prompts to enter the total bill amount, tip percentage, and number of    people.
 3. The script will calculate and display the total amount including tip, and the amount each person needs to pay.
 
-*Sample Output:*
-
+## Sample Output :
+```
 Welcome to the Restaurant Tip Splitter!
 ---------------------------------------
 Hi there! I'm Tip, your friendly assistant for splitting bills and calculating tips with ease :)
@@ -37,7 +37,7 @@ Total Amount with Tip: $91.52
 Number of People: 4.00
 Amount per Person: $22.88
 ========
-
+```
 
 ## Why I Built This
 As someone new to programming, I wanted to tackle a real-world problem I encountered often. Splitting bills manually was tedious, and I saw an opportunity to apply my basic Python skills to create something practical. This project taught me about input validation, modular code design, and creating user-friendly outputs. I hope it helps others enjoy their dining experiences without the math hassle!
@@ -54,4 +54,4 @@ I’d love for this project to grow! If you have ideas for improvements:
 This project is licensed under the [MIT License](). Feel free to use, modify, and share it.
 
 ## Contact
-Have questions or feedback? Reach out to me via [LinkedIn]() or [email](). I’m excited to hear how this tool works for you!
+Have questions or feedback? Reach out to me via [LinkedIn](www.linkedin.com/in/sheikh-negar-sultana-788779263). I’m excited to hear how this tool works for you!
