@@ -51,7 +51,7 @@ I’d love for this project to grow! If you have ideas for improvements:
 5. Open a pull request.
 
 ## License
-This project is licensed under the [MIT License](). Feel free to use, modify, and share it.
+This project is licensed under the [MIT License](https://github.com/SheikhNegarSultana/AI-Development-Projects/blob/main/LICENSE). Feel free to use, modify, and share it.
 
 ## Contact
 Have questions or feedback? Reach out to me via [LinkedIn](www.linkedin.com/in/sheikh-negar-sultana-788779263). I’m excited to hear how this tool works for you!
